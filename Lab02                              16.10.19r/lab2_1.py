@@ -7,6 +7,10 @@ f = open('result_ex1.txt','w')
 circleHits = 0
 
 print("TEST KONFLIKTU")
+print("TEST KONFLIKTU")
+print("TEST KONFLIKTU")
+print("TEST KONFLIKTU")
+print("TEST KONFLIKTU")
 
 
 for i in range(1000001):
