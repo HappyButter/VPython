@@ -1,4 +1,3 @@
-# Monte Carlo 
 import random
 import math
 
@@ -22,6 +21,4 @@ for i in range(1000001):
     if (i == 1000 or i == 10000 or i == 100000 or i == 1000000):
         f.write(str(i) + ')    ' + str(circleField) + ',    ' + str(accuracy) + '\n')
 
-
-    
 f.close() 

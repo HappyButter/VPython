@@ -20,4 +20,6 @@ for i in range(10000001):
         b = a/math.pi
         f.write(str(i) + ')    ' + str(a) + ',    ' + str(b) + '\n')
     
+print("Let's fight!")
+
 f.close()
