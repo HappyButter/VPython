@@ -6,6 +6,8 @@ f = open('result_ex1.txt','w')
 
 circleHits = 0
 
+print("TEST KONFLIKTU")
+
 
 for i in range(1000001):
     x = random.uniform(-1,1)
